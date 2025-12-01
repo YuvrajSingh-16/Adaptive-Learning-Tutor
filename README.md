@@ -22,7 +22,6 @@
 - [Usage Guide](#-usage-guide)
 - [Project Structure](#-project-structure)
 - [Capstone Requirements](#-capstone-requirements)
-- [Demo Video](#-demo-video)
 - [Future Enhancements](#-future-enhancements)
 - [Contributing](#-contributing)
 - [License](#-license)
